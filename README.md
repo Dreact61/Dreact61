@@ -11,6 +11,6 @@ React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite ·
 - To-do трекер задач
 
 ## Мои контакты:
-GitHub: [Dreact61](https://github.com/Dreact61)
-Рабочая почта: dreact61@gmail.com
-Telegram: @quintessencs
+- GitHub: [Dreact61](https://github.com/Dreact61)
+- Рабочая почта: dreact61@gmail.com
+- Telegram: @quintessencs
