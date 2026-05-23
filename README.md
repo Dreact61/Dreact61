@@ -5,10 +5,10 @@ Frontend-разработчик, работаю с React, TypeScript и совр
 ## Стек разработки:
 React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite · HTML · CSS · TailwindCSS · Git
 
-## Мои проекты:
-- Dashboard
-- React Store
-- To-do List
+## Мои проекты (прикреплены ниже):
+- Дашборд
+- Магазин товаров
+- To-do трекер задач
 
 ## Мои контакты:
 GitHub: [Dreact61](https://github.com/Dreact61)
