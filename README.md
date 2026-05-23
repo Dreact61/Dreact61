@@ -2,15 +2,17 @@
 
 Frontend-разработчик, работаю с React, TypeScript и современным стеком для создания SPA и pet-проектов.
 
-## Стек разработки:
+## Стек разработки
+
 React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite · HTML · CSS · TailwindCSS · Git
 
-## Мои проекты (прикреплены ниже):
+## Мои проекты
 - Дашборд
 - Магазин товаров
 - To-do трекер задач
 
-## Мои контакты:
+## Контакты
+
 - GitHub: [Dreact61](https://github.com/Dreact61)
-- Рабочая почта: dreact61@gmail.com
+- Почта: [dreact61@gmail.com](mailto:dreact61@gmail.com)
 - Telegram: @quintessencs
