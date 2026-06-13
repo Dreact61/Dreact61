@@ -10,6 +10,7 @@ React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite ·
 - Дашборд
 - Магазин товаров
 - To-do трекер задач
+- CRM-система
 
 ## Контакты
 
