@@ -4,7 +4,7 @@ Frontend-разработчик, работаю с React, TypeScript и совр
 
 ## Стек разработки
 
-React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite · HTML · CSS · TailwindCSS · Git
+React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite · HTML · CSS · TailwindCSS · Git · NodeJS
 
 ## Мои проекты
 - Дашборд
