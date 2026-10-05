@@ -4,7 +4,7 @@ Fullstack-разработчик, работаю с React, TypeScript, Node JS �
 
 ## Стек разработки
 
-React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite · HTML · CSS · TailwindCSS · Git · NodeJS · Redis · SQL · PHP
+React · TypeScript · JavaScript · Axios · Zustand · React Router · Vite · HTML · CSS · TailwindCSS · Git · NodeJS · Redis · SQL · PHP · WordPress API
 
 ## Мои проекты
 - Дашборд
